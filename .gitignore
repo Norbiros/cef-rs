@@ -6,3 +6,4 @@ build
 cargo-sources.json
 
 /.vscode/
+.idea/
